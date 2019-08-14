@@ -24,3 +24,6 @@ print(ir['Speed'])
 ```
 
 Go to [tutorials](tutorials) for more.
+
+
+https://members.iracing.com/jforum/posts/list/3232429.page
